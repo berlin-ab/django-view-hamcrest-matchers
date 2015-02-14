@@ -3,6 +3,11 @@
 A collection of matchers for pyhamcrest to help while testing Django Views.
 
 
+## Disclaimer
+
+None of these matchers are implemented yet, but I'd really like them to be. 
+
+
     from django_view_hamcrest_matchers import *
 
     from django.test import Client
